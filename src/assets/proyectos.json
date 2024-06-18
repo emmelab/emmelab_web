@@ -1,7 +1,7 @@
 [
     {
         "nombre":       "Nomenclador",
-        "tipo":         "",
+        "tipo":         "obra",
         "responsables": "",
         "fecha":        "2008-10-30",
         "año-inicio":   2008,
@@ -26,7 +26,7 @@
         "fecha":        "",
         "año-inicio":   2012,
         "año-fin":      "",
-        "notas":        "es una instalación interactiva que indaga sobre las relaciones entre individuos de una comunidad, que dan origen a distintos cambios en la globalidad de su entorno. Al alterarse el vínculo entre algunos miembros se generan cambios estructurales en todo el conjunto. La obra está conformada por tres interfaces de entrada y una de salida.",
+        "notas":        "Es una instalación interactiva que indaga sobre las relaciones entre individuos de una comunidad, que dan origen a distintos cambios en la globalidad de su entorno. Al alterarse el vínculo entre algunos miembros se generan cambios estructurales en todo el conjunto. La obra está conformada por tres interfaces de entrada y una de salida.",
         "url-externa":  "https://vimeo.com/38960996"
     },
     {
