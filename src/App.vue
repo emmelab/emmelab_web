@@ -19,4 +19,5 @@ import Footer from './components/Footer.vue'
 body, html {
   scrollbar-width: thin;
 }
+html { scroll-behavior: smooth; }
 </style>
