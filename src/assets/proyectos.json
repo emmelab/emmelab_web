@@ -1,0 +1,322 @@
+[
+    {
+        "nombre":       "Nomenclador",
+        "tipo":         "",
+        "responsables": "",
+        "fecha":        "2008-10-30",
+        "año-inicio":   2008,
+        "año-fin":      "",
+        "notas":        "Este proyecto estuvo destinado a los alumnos de todas las carreras que se dictan en la facultad, permite localizar aulas en las distintas sedes que la conforman. La obra es una instalación interactiva que consta de una pantalla sensible al tacto retroproyectada, la cual guía visualmente al usuario entre los distintos niveles de búsqueda, solicitando la selección de opciones organizadas en dos criterios de consulta: Por día de cursada o por materia a cursar en el aula buscada.",
+        "url-externa":  "https://vimeo.com/3563658"
+    },
+    {
+        "nombre":       "mOpP",
+        "tipo":         "obra",
+        "responsables": "",
+        "fecha":        "",
+        "año-inicio":   2012,
+        "año-fin":      "",
+        "notas":        "Es una escultura aumentada interactiva que reacciona al soplido del usuario. Consta de una estructura compleja constituída por decenas de módulos cúbicos, y propone una composición fuertemente rígida.",
+        "url-externa":  "https://vimeo.com/38955761"
+    },
+    {
+        "nombre":       "#3",
+        "tipo":         "obra",
+        "responsables": "",
+        "fecha":        "",
+        "año-inicio":   2012,
+        "año-fin":      "",
+        "notas":        "es una instalación interactiva que indaga sobre las relaciones entre individuos de una comunidad, que dan origen a distintos cambios en la globalidad de su entorno. Al alterarse el vínculo entre algunos miembros se generan cambios estructurales en todo el conjunto. La obra está conformada por tres interfaces de entrada y una de salida.",
+        "url-externa":  "https://vimeo.com/38960996"
+    },
+    {
+        "nombre":       "Cuerpo Módulo Códgio",
+        "tipo":         "obra",
+        "responsables": "",
+        "fecha":        "",
+        "año-inicio":   2014,
+        "año-fin":      "",
+        "notas":        "Cuerpo Módulo Código es una performance de danza mediada por tecnologías de captura de movimiento.",
+        "url-externa":  "https://vimeo.com/92772100"
+    },
+    {
+        "nombre":       "MODDDO",
+        "tipo":         "proyecto",
+        "responsables": "",
+        "fecha":        "",
+        "año-inicio":   2013,
+        "año-fin":      2018,
+        "notas":        "con el laboratorio LIMA de la Facultad de Medicina de la Universidad Nacional de la Plata",
+        "url-externa":  "https://vimeo.com/emmelab"
+    },
+    {
+        "nombre":       "Iniciación en la captura de movimiento con Kinect y Xtion",
+        "tipo":         "publicación",
+        "responsables": "FRANCISCO ALVAREZ LOJO, EZEQUIEL RIVERO, IGNACIO SIRI, AGUSTIN BACIGALUP, DANIEL LOAIZA, HERNÁN GONZÁLEZ MORENO, CAROLINA OJCIUS.",
+        "fecha":        "2015-11-20",
+        "año-inicio":   2015,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 2",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_2.pdf"
+    },
+    {
+        "nombre":       "Un lenguaje de programación para el cuerpo. Abordaje retórico sobre la programación y su articulación con las artes performáticas",
+        "tipo":         "publicación",
+        "responsables": "FRANCISCO ALVAREZ LOJO, EZEQUIEL RIVERO, IGNACIO SIRI, AGUSTIN BACIGALUP, DANIEL LOAIZA, HERNÁN GONZÁLEZ MORENO, CAROLINA OJCIUS",
+        "fecha":        "2015-11-20",
+        "año-inicio":   2015,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 2",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_2.pdf"
+    },
+    {
+        "nombre":       "COD05",
+        "tipo":         "proyecto",
+        "responsables": "",
+        "fecha":        "",
+        "año-inicio":   2016,
+        "año-fin":      2018,
+        "notas":        "",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Primeras Jornadas de Realidad Aumentada Aplicada",
+        "tipo":         "jornada",
+        "responsables": "",
+        "fecha":        "2018-01-11",
+        "año-inicio":   2018,
+        "año-fin":      "",
+        "notas":        "",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Triangulación de proyectos de investigación",
+        "tipo":         "presentación",
+        "responsables": "Ezequiel Rivero",
+        "fecha":        "2018-06-11",
+        "año-inicio":   2018,
+        "año-fin":      "",
+        "notas":        "",
+        "url-externa":  "Presentando MODDDO y COD05 en las Terceras Jornadas de Investigación “Cuerpo, Arte y Comunicación” organizado por la Facultad de Humanidades y Ciencias de la Educación"
+    },
+    {
+        "nombre":       "Presentación de COD05",
+        "tipo":         "presentación",
+        "responsables": "Hernán González Moreno",
+        "fecha":        "2018-10-22",
+        "año-inicio":   2018,
+        "año-fin":      "",
+        "notas":        "en la 5ta Bienal de arte de la UNLP",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "La Performance Interactiva como Realidad Mixta y la Simultaneidad de una Estética y una Endoestética",
+        "tipo":         "publicación",
+        "responsables": "Ezequiel Rivero",
+        "fecha":        "2018-10-30",
+        "año-inicio":   2018,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 3",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_3.pdf"
+    },
+    {
+        "nombre":       "Imágenes vivas e inteligentes",
+        "tipo":         "publicación",
+        "responsables": "Daniel Loaiza, Emiliano Causa",
+        "fecha":        "2018-10-30",
+        "año-inicio":   2018,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 3",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_3.pdf"
+    },
+    {
+        "nombre":       "La Realidad Aumentada Aplicada en la Universidad como modelo educativo",
+        "tipo":         "publicación",
+        "responsables": "ANA LONGOBUCO, KRISTA YORBYCK, DANIEL LOAIZA",
+        "fecha":        "2018-10-30",
+        "año-inicio":   2018,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 3",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_3.pdf"
+    },
+    {
+        "nombre":       "Teleacción y Realidad Aumentada para la enseñanza de la medicina",
+        "tipo":         "presentación",
+        "responsables": "Ezequiel Rivero",
+        "fecha":        "2018-11-15",
+        "año-inicio":   2018,
+        "año-fin":      "",
+        "notas":        "Dentro de “Charla sobre sensado biométrico y realidades mixtas como materiales para la performance” organizado por la Cátedra Libre Educación y Mediación Digital en Danza Performance",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Jornadas de Realidad Aumentada Aplicada (2da Edición)",
+        "tipo":         "jornada",
+        "responsables": "",
+        "fecha":        "2019-01-11",
+        "año-inicio":   2019,
+        "año-fin":      "",
+        "notas":        "",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Imágenes vivas e inteligentes: Un primer acercamiento al uso de las imágenes como fuentes de datos en conjunción con algoritmos genéticos",
+        "tipo":         "presentación",
+        "responsables": "Daniel Loaiza",
+        "fecha":        "2019-08-22",
+        "año-inicio":   2019,
+        "año-fin":      "",
+        "notas":        "Presentación de investigación en las JEIDAP 2019",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Apuntes Aumentados",
+        "tipo":         "proyecto",
+        "responsables": "",
+        "fecha":        "",
+        "año-inicio":   2019,
+        "año-fin":      2019,
+        "notas":        "con el laboratorio LIMA de la Facultad de Medicina de la Universidad Nacional de la Plata",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "EVEN",
+        "tipo":         "proyecto",
+        "responsables": "",
+        "fecha":        "",
+        "año-inicio":   2020,
+        "año-fin":      2024,
+        "notas":        "",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "LisCat",
+        "tipo":         "proyecto",
+        "responsables": "Emiliano Causa",
+        "fecha":        "",
+        "año-inicio":   2020,
+        "año-fin":      "",
+        "notas":        "",
+        "url-externa":  "http://www.emilianocausa.ar/emiliano/liscat/"
+    },
+    {
+        "nombre":       "1era Jornada de Arte, Interactividad e Interfaces",
+        "tipo":         "jornada",
+        "responsables": "",
+        "fecha":        "2021-12-19",
+        "año-inicio":   2021,
+        "año-fin":      "",
+        "notas":        "",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Métodos de captura del cuerpo con cámara web",
+        "tipo":         "presentación",
+        "responsables": "Julia Saenz Waslet",
+        "fecha":        "2022-09-01",
+        "año-inicio":   2022,
+        "año-fin":      "",
+        "notas":        "Presentación de investigación de métodos de captura del cuerpo con cámara web hecho para la beca Estímulo a las Vocaciones Científicas",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Presentación de EVEN",
+        "tipo":         "presentación",
+        "responsables": "Daniel Loaiza",
+        "fecha":        "2022-10-22",
+        "año-inicio":   2022,
+        "año-fin":      "",
+        "notas":        "Mesa en el Encuentro Provincial de Cultura, Arte y Tecnologías organizado por el Gobierno de la provincia de Buenos Aires",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "2da Jornada de Arte, Interactividad e Interfaces",
+        "tipo":         "jornada",
+        "responsables": "",
+        "fecha":        "2022-11-17",
+        "año-inicio":   2022,
+        "año-fin":      "",
+        "notas":        "",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Tecnologías Faciales en la contemporaneidad",
+        "tipo":         "publicación",
+        "responsables": "Ana Longobuco",
+        "fecha":        "2022-11-30",
+        "año-inicio":   2022,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 4",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
+    },
+    {
+        "nombre":       "Introducción a las interfaces gestuales con dispositivo de captura óptica",
+        "tipo":         "publicación",
+        "responsables": "Julia Saenz Waslet",
+        "fecha":        "2022-11-30",
+        "año-inicio":   2022,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 4",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
+    },
+    {
+        "nombre":       "Desarrollo de interfaces naturales gestuales con Kinect",
+        "tipo":         "publicación",
+        "responsables": "Julia Saenz Waslet",
+        "fecha":        "2022-11-30",
+        "año-inicio":   2022,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 4",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
+    },
+    {
+        "nombre":       "La comunicación no verbal en el encuentro virtual",
+        "tipo":         "publicación",
+        "responsables": "Belén Lesna, Fernando Andrés Bava",
+        "fecha":        "2022-11-30",
+        "año-inicio":   2022,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 4",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
+    },
+    {
+        "nombre":       "Entornos Virtuales en Línea: Creación de una herramienta para la producción de audiovisuales tridimensionales interactivos",
+        "tipo":         "publicación",
+        "responsables": "Daniel Loaiza",
+        "fecha":        "2022-11-30",
+        "año-inicio":   2022,
+        "año-fin":      "",
+        "notas":        "Invasión Generativa 4",
+        "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
+    },
+    {
+        "nombre":       "Introducción a EVEN",
+        "tipo":         "presentación",
+        "responsables": "Martina, Ana Longobuco",
+        "fecha":        "2023-10-12",
+        "año-inicio":   2023,
+        "año-fin":      "",
+        "notas":        "",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "Escaner, del barro al pixel",
+        "tipo":         "taller",
+        "responsables": "",
+        "fecha":        "2023-11-10",
+        "año-inicio":   2023,
+        "año-fin":      "",
+        "notas":        "",
+        "url-externa":  ""
+    },
+    {
+        "nombre":       "andragón",
+        "tipo":         "proyecto",
+        "responsables": "Emiliano Causa, Daniel Loaiza",
+        "fecha":        "",
+        "año-inicio":   2023,
+        "año-fin":      20,
+        "notas":        "",
+        "url-externa":  "http://www.emilianocausa.ar/emiliano/andragon/"
+    }
+]
