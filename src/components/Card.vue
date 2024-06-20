@@ -7,6 +7,7 @@
         year: Number,
         descripcion: String,
         enlace: String,
+        media: String,
     })
 
     const hue = ref((Math.random() * 360))
@@ -15,7 +16,13 @@
 <template>
     <div class="card w-96 bg-base-100 shadow-xl">
         <figure>
-            <div :style="{background: `linear-gradient(0deg, hsla(${hue},100%,50%,1) 0%, hsla(${(90 - hue)%360},100%,50%,1) 100%)`,
+            <div :style="{
+                // backgroundImage: `linear-gradient(0deg, hsla(${hue},100%,50%,1) 0%, hsla(${(90 - hue)%360},100%,50%,1) 100%)`,
+                backgroundImage: media ? 
+                    `url(/${media}/index.jpg)` : 
+                    `linear-gradient(0deg, hsla(${hue},80%,45%,1) 0%, hsla(${(90 + hue)%360},85%,55%,1) 100%)`,
+                backgroundSize: 'cover',
+                backgroundPosition: 'center'
             }"></div>
         </figure>
         <div class="card-body">

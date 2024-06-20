@@ -35,6 +35,7 @@
                 :year="item['año-inicio']"
                 :descripcion="item.notas"
                 :enlace="item['url-externa']"
+                :media="item.media"
             />
         </div>
     </section>
