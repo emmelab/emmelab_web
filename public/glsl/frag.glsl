@@ -88,9 +88,9 @@ void main() {
   // vec2 p = vec2(0.0) - uv;
   
   float n  = 1.0 - fbm(u_time * 0.01 + uv * 3.0);
-  n  = (1.0 - fbm(cos(u_time) * 0.05 - 5.0 + n * uv * 5.0));
+  n  = (1.0 - fbm(cos(u_time) * 0.01 - 5.0 + n * uv * 5.0));
 
-  n = smoothstep(0.2, 0.4, n);
+  n = smoothstep(0.2, 0.5, n);
   n = 1.0 - n;
 
   // vec3 luz = vec3( 
@@ -116,8 +116,10 @@ void main() {
   // luz = sat(luz, 1.5);
   // color = luz + specularLight;
 
+  color.r *= n * cos(u_time * 0.5 + uv.x * PI ) * 0.5 + 0.5;
+  color.g *= n * sin(u_time * 0.5 + uv.y * PI + 0.0001) * 0.5 + 0.5;
+  color.b *= cos(u_time * 0.1) * 1.02;
   color = color + vec3(35.0 / 255.0, 37.0 / 255.0, 48.0 / 255.0);
-  color.r *= n;
   
   gl_FragColor = vec4(color, 1.0);
 }
