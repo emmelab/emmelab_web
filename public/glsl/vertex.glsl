@@ -1,20 +1,7 @@
-varying vec2 vUv;
+precision highp float;
 
-varying vec3 worldNormal;
-varying vec3 eyeVector;
+attribute vec2 position;
 
-void main()	{
-
-  vUv = uv;
-
-  vec4 worldPos = vec4( position, 1.0 );
-  
-  vec4 mvPosition = viewMatrix * worldPos;
-
-  gl_Position = projectionMatrix * mvPosition;
-
-  vec3 transformedNormal = normalMatrix * normal;
-  worldNormal = normalize(transformedNormal);
-
-  eyeVector = normalize(worldPos.xyz - cameraPosition);
+void main() {
+	gl_Position = vec4(position, 0.0, 1.0);
 }
