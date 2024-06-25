@@ -25,11 +25,13 @@
                 backgroundPosition: 'center'
             }"></div>
         </figure>
-        <div class="card-body">
+        <div class="card-body gap-5">
             <h2 class="card-title">
             {{nombre}}
             </h2>
-            <p>{{descripcion}}</p>
+            <div class="divider m-0"></div>
+            <p class="text-sm">{{descripcion}}</p>
+            <!-- <div v-if="descripcion" class="divider"></div> -->
             <div class="card-actions justify-end">
                 <div class="badge badge-outline badge-secondary">{{year}}</div>
                 <div class="badge badge-outline badge-primary">{{tag}}</div>

@@ -11,7 +11,7 @@
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1">
       <li><RouterLink to="/about">¿Quiénes somos?</RouterLink></li>
-      <li><RouterLink to="/">Contacto</RouterLink></li>
+      <li><RouterLink to="/contact">Contacto</RouterLink></li>
     </ul>
   </div>
 </div>
