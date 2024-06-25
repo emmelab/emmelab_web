@@ -193,7 +193,7 @@
         "fecha":        "",
         "año-inicio":   2020,
         "año-fin":      2024,
-        "notas":        "",
+        "notas":        "Es una herramienta desarrollada para generar un recorrido alrededor de un objeto tridimensional. El recorrido debe está predeterminado a partir de archivo de audio y un guión que el programa usa para sincronizar todo lo que ocurra en el audiovisual.",
         "url-externa":  "https://danielalejandro.art/proyectos/EVEN/",
         "media":        "EVEN"
     },
@@ -204,7 +204,7 @@
         "fecha":        "",
         "año-inicio":   2020,
         "año-fin":      "",
-        "notas":        "",
+        "notas":        "LisCat, es un entorno visual de programación que funciona en complemento con Processing 3. El entorno está diseñado para crear diagramas de estado y luego traducirlos a código de programación en Processing.",
         "url-externa":  "http://www.emilianocausa.ar/emiliano/liscat/",
         "media":        "LisCat"
     },
