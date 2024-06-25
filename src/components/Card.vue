@@ -35,7 +35,7 @@
             <div class="card-actions justify-end">
                 <div class="badge badge-outline badge-secondary">{{year}}</div>
                 <div class="badge badge-outline badge-primary">{{tag}}</div>
-                <a v-if="enlace" :href="enlace" class="badge badge-info"> enlace externo </a>
+                <a v-if="enlace" :href="enlace" target="_blank" class="badge badge-info"> enlace externo </a>
             </div>
         </div>
     </div>

@@ -48,7 +48,7 @@
         "fecha":        "",
         "año-inicio":   2013,
         "año-fin":      2018,
-        "notas":        "con el laboratorio LIMA de la Facultad de Medicina de la Universidad Nacional de la Plata",
+        "notas":        "Desarrollado en conjunto con el laboratorio LIMA de la Facultad de Medicina de la Universidad Nacional de la Plata. Herramienta para visualizar modelos anatómicos 3D y controlarlos desde un dispositivo móvil.",
         "url-externa":  "https://vimeo.com/emmelab",
         "media":        "MODDDO"
     },
@@ -79,8 +79,8 @@
         "fecha":        "",
         "año-inicio":   2016,
         "año-fin":      2018,
-        "notas":        "",
-        "url-externa":  "",
+        "notas":        "COD05 es un lenguaje de programación diseñado para ser utilizado en escena por performers. Los algoritmos se programan a través de movimientos corporales, ingresando comandos en el mismo momento que se ejecuta la danza o performance.",
+        "url-externa":  "https://vimeo.com/220061519",
         "media":        "COD05"
     },
     {
@@ -328,7 +328,7 @@
         "fecha":        "",
         "año-inicio":   2023,
         "año-fin":      20,
-        "notas":        "",
+        "notas":        "Es un software con fines educativos cuyo principal objetivo es enseñar las primeras bases en la construcción de shaders.",
         "url-externa":  "http://www.emilianocausa.ar/emiliano/andragon/",
         "media":        "andragon"
     }
