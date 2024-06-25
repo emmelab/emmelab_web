@@ -1,4 +1,4 @@
-<script lang="js" setup>
+<script lang="ts" setup>
 import { onMounted } from 'vue';
 import isMobile from 'is-mobile';
 
@@ -7,7 +7,7 @@ onMounted(() => {
     init()
 })
 
-async function loadShader(url) {
+async function loadShader(url:string) {
     const response = await fetch(url);
     const shaderTxt = await response.text();
     return shaderTxt;
@@ -20,15 +20,15 @@ async function init() {
     loadedShaders.vsText = await loadShader('/glsl/vertex.glsl')
     loadedShaders.fsText = await loadShader('/glsl/frag.glsl')
 
-	runDemo(null, loadedShaders);
+	runDemo(loadedShaders);
 }
 
-function runDemo(loadErrors, loadedShaders) {
+function runDemo(loadedShaders:any) {
 	// Attach callbacks
   window.addEventListener('resize', OnResizeWindow)
 
-	var canvas = document.getElementById('cnv');
-	var gl = canvas?.getContext('webgl');
+	var canvas = document.getElementById('cnv') as HTMLCanvasElement;
+	var gl = canvas?.getContext('webgl') as any;
 	if (!gl) {
 		console.log('Webgl context not available - falling back on experimental');
 		gl = canvas.getContext('experimental-webgl');
@@ -114,12 +114,9 @@ function runDemo(loadErrors, loadedShaders) {
 	);
 	gl.enableVertexAttribArray(vPosAttrib);
 
-  gl.uniform2fv(uniforms.u_resolution, vpDimensions);
-  gl.uniform3fv(uniforms.uLight, [0.1, 0.2, 2.0])
-  gl.uniform1f(uniforms.uShininess, 2.0);
-  gl.uniform1f(uniforms.uDiffuseness, 0.72);
+	gl.uniform2fv(uniforms.u_resolution, vpDimensions);
 
-  const randomSeed = Math.random() * 100;
+	const randomSeed = Math.random() * 100;
   
   var loop = function () {
 	  // Draw
