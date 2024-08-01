@@ -59,17 +59,17 @@
         "fecha":        "2015-11-20",
         "año-inicio":   2015,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 2",
+        "notas":        "Sistemas ópticos de captura de movimiento basados en dispositivos de visión computarizada Kinect y Xtion para el desarrollo de aplicaciones interactivas generativas. Publicado en Invasión Generativa 2",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_2.pdf"
     },
     {
-        "nombre":       "Un lenguaje de programación para el cuerpo. Abordaje retórico sobre la programación y su articulación con las artes performáticas",
+        "nombre":       "Un lenguaje de programación para el cuerpo.",
         "tipo":         "publicación",
         "responsables": "FRANCISCO ALVAREZ LOJO, EZEQUIEL RIVERO, IGNACIO SIRI, AGUSTIN BACIGALUP, DANIEL LOAIZA, HERNÁN GONZÁLEZ MORENO, CAROLINA OJCIUS",
         "fecha":        "2015-11-20",
         "año-inicio":   2015,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 2",
+        "notas":        "Abordaje retórico sobre la programación y su articulación con las artes performáticas. Publicado en Invasión Generativa 2",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_2.pdf"
     },
     {
@@ -90,7 +90,7 @@
         "fecha":        "2018-01-11",
         "año-inicio":   2018,
         "año-fin":      "",
-        "notas":        "",
+        "notas":        "Las realidades mixtas y su articulación en el arte, la ciencia y otros campos",
         "url-externa":  "",
         "media":        "JRAA"
     },
@@ -121,7 +121,7 @@
         "fecha":        "2018-10-30",
         "año-inicio":   2018,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 3",
+        "notas":        "Artículo que sitúa una obra de danza performance mediada por nuevas tecnologías dentro del campo de las realidades mixtas. Publicado en Invasión Generativa 3",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_3.pdf"
     },
     {
@@ -131,7 +131,7 @@
         "fecha":        "2018-10-30",
         "año-inicio":   2018,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 3",
+        "notas":        "Artículo que aborda la aplicación de algoritmos genéticos en la creación de imágenes originales a partir del análisis y combinación de datos obtenidos de un set de imagenes inicial. Publicado en Invasión Generativa 3",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_3.pdf"
     },
     {
@@ -141,7 +141,7 @@
         "fecha":        "2018-10-30",
         "año-inicio":   2018,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 3",
+        "notas":        "Sobre el desarrollo de experiencias de realidad aumentada aplicada, como modelo de enseñanza-aprendizaje detro de la educación formal superior y el impactoen la construcción y circulación de información. Publicado en Invasión Generativa 3",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_3.pdf"
     },
     {
@@ -161,7 +161,7 @@
         "fecha":        "2019-11-01",
         "año-inicio":   2019,
         "año-fin":      "",
-        "notas":        "",
+        "notas":        "Las realidades mixtas y su articulación en el arte, la ciencia y otros campos",
         "url-externa":  "",
         "media": "JRAA2"
     },
@@ -215,7 +215,7 @@
         "fecha":        "2021-12-09",
         "año-inicio":   2021,
         "año-fin":      "",
-        "notas":        "",
+        "notas":        "Organizada en el marco del proyecto de investigación \"HCI y nuevas innterfaces aplicadas desde el Diseño Multimedial\"",
         "url-externa":  "https://www.youtube.com/live/zng_RxyCph8?si=h2_DLKpHQ16jo95q",
         "media":        "JAII"
     },
@@ -246,7 +246,7 @@
         "fecha":        "2022-11-17",
         "año-inicio":   2022,
         "año-fin":      "",
-        "notas":        "",
+        "notas":        "Organizada en el marco del proyecto de investigación \"HCI y nuevas innterfaces aplicadas desde el Diseño Multimedial\"",
         "url-externa":  "https://www.youtube.com/live/p_eW_39uxuw?si=vHVTfPSjsHCAkNz5",
         "media":        "JAII2"
     },
@@ -257,7 +257,7 @@
         "fecha":        "2022-11-30",
         "año-inicio":   2022,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 4",
+        "notas":        "El impacto corporal y comunicacional de la reinserción del barbijo en la cultura, producto de la pandemia de COVID-19. Publicado en Invasión Generativa 4",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
     },
     {
@@ -267,7 +267,7 @@
         "fecha":        "2022-11-30",
         "año-inicio":   2022,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 4",
+        "notas":        "Estudio sobre dispositivos, métodos de captura y gestos comúnmente utilizados en el desarrollo de interfaces naturales gestuales. Publicado en Invasión Generativa 4",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
     },
     {
@@ -277,7 +277,7 @@
         "fecha":        "2022-11-30",
         "año-inicio":   2022,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 4",
+        "notas":        "Artículo que analiza la producciónde diferentes programas de detección de manos, utilizando distintos métodos de captación. Publicado en Invasión Generativa 4",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
     },
     {
@@ -287,7 +287,7 @@
         "fecha":        "2022-11-30",
         "año-inicio":   2022,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 4",
+        "notas":        "Aálisis de diferentes interacciones en entornos virtuales. Publicado en Invasión Generativa 4",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
     },
     {
@@ -297,17 +297,17 @@
         "fecha":        "2022-11-30",
         "año-inicio":   2022,
         "año-fin":      "",
-        "notas":        "Invasión Generativa 4",
+        "notas":        "Sobre el desarollo de EVEN. Publicado en Invasión Generativa 4",
         "url-externa":  "http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_4.pdf"
     },
     {
         "nombre":       "Introducción a EVEN",
         "tipo":         "presentación",
-        "responsables": "Martina, Ana Longobuco",
+        "responsables": "Martina Pellegrino, Ana Longobuco",
         "fecha":        "2023-10-12",
         "año-inicio":   2023,
         "año-fin":      "",
-        "notas":        "",
+        "notas":        "Presentación y tutorial de EVEN en la cátedra Tecnología Multimedial 2 de la carrera de Diseño Multimedial (FDA, UNLP)",
         "url-externa":  ""
     },
     {

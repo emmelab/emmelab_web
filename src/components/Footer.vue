@@ -4,6 +4,7 @@
 
 <template>
     <footer class="footer items-center p-4 bg-neutral text-neutral-content">
+        <a class="a-facu" href="https://fba.unlp.edu.ar/" target="_blank"><img class="facu" src="@/assets/marca_fda_unlp.svg"></a>
         <aside class="items-center grid-flow-col">
             <img src="@/assets/marca.svg">
             <p>Hecho por estudiantes y graduados de la Facultad de Artes de la Universidad Nacional de La Plata</p>
@@ -38,9 +39,16 @@
 
 <style scoped>
     img {
-        width: 48px;
+        height: 48px;
     }
     a {
         width: 24px;
+    }
+    .facu {
+        width: auto;
+        height: 64px;
+    }
+    .a-facu {
+        width: auto;
     }
 </style>

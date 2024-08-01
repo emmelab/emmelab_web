@@ -17,3 +17,9 @@ descripción de cada entrada, y así hacer una página dedicada a cada cosa. Lo 
 - después de clonar el repositorio ejecutar en la carpeta del proyecto `npm install`
 - para testear `npm run dev` crea un servidor local en un puerto default
 - para buildear el proyecto `npm run build`
+
+## TODO:
+[x] Agregar info de la universidad
+[x] Agregar abstrcts de las investigaciones
+[x] Completar info de lo que no tenga un enlace externo
+- Agregar imágenes
